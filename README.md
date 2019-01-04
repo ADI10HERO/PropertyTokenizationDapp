@@ -1,12 +1,15 @@
 # PropertyTokenizationDapp
-Dapp to tokenize property and use it as an investment
-Install the dependencies:
-1)NodeJs from https://nodejs.org/en/
-2)Metamask chrome extension
-3)truffle using the commands  npm install truffle 
-4)React using the commands npm install -g create-react-app
-Now download or clone the project and go to the pd folder
-Now run the commands:
-npm install
-npm start
-The Dapp will be visible at localhost://3000
+<b>Dapp to tokenize property and use it as an investment</b>
+
+# Install the dependencies:<br>
+<b>1)</b> NodeJs from https://nodejs.org/en/ <br>
+<b>2)</b> Metamask chrome extension <br>
+<b>3)</b> truffle using the commands  npm install truffle <br>
+<b>4)</b> React using the commands npm install -g create-react-app <br>
+# Now download or clone the project and go to the "pd" folder <br>
+# Now run the commands:
+>>$ npm install <br>
+>>$ npm start
+
+<i>(The Dapp will be visible at localhost://3000)</i>
+
